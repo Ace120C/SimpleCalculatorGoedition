@@ -29,4 +29,7 @@ func main() {
 		return
 	}
 	fmt.Printf("Result: %f\n", result)
+	var exit string = "exit"
+	fmt.Println("Press Any Button To Quit...")
+	fmt.Scanln(&exit)
 }
