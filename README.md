@@ -3,13 +3,9 @@ a simple calculator written in go, I just uploaded this as a project as a way to
 
 
 # Linux
-Make the file executable:
+run the app by typing in the terminal:
 ```
-chmod +x calculator.linux
-```
-then run the app:
-```
-./calculator.linux
+./calculator-linux
 ```
 # Windows
 just double click the exe file and it should run
